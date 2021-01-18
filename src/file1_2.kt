@@ -1,10 +1,10 @@
 import java.util.*
 
 fun main() {
-    file_one_two()
+    fileOneTwo()
 }
 
-fun file_one_two(){
+fun fileOneTwo(){
 
     println("hi im testing")
     val scan: Scanner = Scanner(System.`in`)
